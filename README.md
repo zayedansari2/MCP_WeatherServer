@@ -1,7 +1,10 @@
 # weather — Minimal MCP server demo
 
-<img width="1123" height="869" alt="Screenshot 2025-11-15 at 6 37 38 PM" src="https://github.com/user-attachments/assets/717f5316-8553-4d96-a139-93d56ba17b3e" />
+<img width="1123" height="869" alt="Screenshot 2025-11-15 at 6 37 38 PM" src="https://github.com/user-attachments/assets/717f5316-8553-4d96-a139-93d56ba17b3e" />
 
+<a href="https://glama.ai/mcp/servers/@zayedansari2/MCP_WeatherServer">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@zayedansari2/MCP_WeatherServer/badge" alt="Weather Server MCP server" />
+</a>
 
 Short, hands-on MCP (Model Context Protocol) server demo that registers async tools for weather data (alerts and forecasts) using the NWS public APIs.
 
