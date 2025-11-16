@@ -4,6 +4,7 @@
 
 <img width="318" height="245" alt="Screenshot 2025-11-15 at 7 23 28 PM" src="https://github.com/user-attachments/assets/ac1a0203-d479-4a26-aa33-1392c84f2f1b" />
 
+
 Short, hands-on MCP (Model Context Protocol) server demo that registers async tools for weather data (alerts and forecasts) using the NWS public APIs.
 
 ## Quick start
